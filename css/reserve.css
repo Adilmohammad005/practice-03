@@ -1,0 +1,20 @@
+.sign{
+	width: 50%;
+	margin: 30px;
+	border: 10px solid ;
+}
+.first, .last, .email, .date, .Password {
+	width: 50%;
+	height: 20px;
+	padding: 10px;
+	font-size: 20px;
+}
+   	.pa{
+	color: green;
+	font-size: 30px
+
+}
+.vid{
+	width: 50%;
+	height: 300px;
+}

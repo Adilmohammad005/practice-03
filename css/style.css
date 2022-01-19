@@ -1,0 +1,50 @@
+header{
+	background-color: yellowgreen;
+}
+main{
+	background-color: maroon;
+}
+
+h1{
+	background-color: green;
+	margin: 50px 250px 50px;
+	padding: 20PX;
+	color: yellow;
+	border: 5px;
+	font-size: 50px;
+}
+h2{
+	font-weight: 20px;
+	font-size: 30px;
+	color: blue;
+}
+p{
+	background-color: maroon;
+	color: white;
+	font-size: 25px;
+}
+.pa{
+	margin: 20px;
+	padding: 15px;
+	color: blue;
+	font-size: 30px
+
+}
+aside{
+	color: white;
+	font-size: 35px;
+}
+article{
+	margin: 50px;
+	font-size: 30px;
+	color: yellow;
+}
+footer{
+	background-color: blue;
+	color: greenyellow;
+	font-size: 25px;
+}
+.bake{
+	height: 200px;
+	width: 300px;
+}
